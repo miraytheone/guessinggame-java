@@ -2,7 +2,7 @@ import java.net.*;
 import java.io.*;
 import java.util.Random;
 
-public class Server_17290093 {
+public class Server {
      
 
     public static void main(String args[]) throws IOException
