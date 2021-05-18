@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.Scanner;
 
 
-public class Client_17290093 {
+public class Client {
     
      
     public static void main(String[] args) throws IOException {
